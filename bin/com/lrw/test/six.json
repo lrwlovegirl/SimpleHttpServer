@@ -1,0 +1,366 @@
+{
+    "bar": [
+        {
+            "name": "网络客商",
+            "value": 2000
+        },
+        {
+            "name": "行政人员",
+            "value": 2000
+        },
+        {
+            "name": "工程项目",
+            "value": 1000
+        },
+        {
+            "name": "物资目录",
+            "value": 4000
+        },
+        {
+            "name": "核算机构",
+            "value": 3000
+        }
+    ],
+    
+    "pie": [
+        {
+            "name": "正常接口",
+            "value": 52
+        },
+        {
+            "name": "异常接口",
+            "value": 0
+        }
+    ],
+    "table": [
+        {
+            "amount": 128899,
+            "name": "t01_mdm2_mdmmatsortsrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_repcoveritem",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 40704,
+            "name": "t01_mdm2_mdmm0orgrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_accountingduties",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_bankaccount",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_orgtax",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_region",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_taxitem",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 46,
+            "name": "t01_mdm_executiveorg",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_dept",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_dictsort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_custsupplierbankaccount",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 630611,
+            "name": "t01_mdm2_mdmmaterialsrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 40288,
+            "name": "t01_mdm2_mdmorginforecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_bizsort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_employeebankaccount",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_groupexrate",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_role",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 9654,
+            "name": "t01_mdm2_mdmm0dictitemrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_salarysort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_specialtype",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_vchsort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_acct",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 1000636,
+            "name": "t01_mdm2_mdmmatsperecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_finanacialassetsort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_indesort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_opbank",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_productsort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 174661,
+            "name": "t01_mdm2_mdmm10custsupplierrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_systtemparameter",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 89,
+            "name": "t01_mdm_executivedept",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_org",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 4,
+            "name": "t01_mdm_asssort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 13876,
+            "name": "t01_mdm2_mdmlwhgmlrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_labourserranks",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_proj",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 376215,
+            "name": "t01_mdm_mdmusers",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_asstsort",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_bankname",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 1308,
+            "name": "t01_mdm2_mdmm20acctrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 29,
+            "name": "t01_mdm2_mdmm20asstsortrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_bizmode",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_cashflow",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_projtype",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 221,
+            "name": "t01_mdm2_mdmm0dictsortrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 375283,
+            "name": "t01_mdm_employee",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_dictitem",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_currency",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 0,
+            "name": "t01_mdm_custsupplier",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 957,
+            "name": "t01_mdm2_mdmm20acctasstsortrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 62,
+            "name": "t01_mdm2_m0taxitemrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        },
+        {
+            "amount": 114,
+            "name": "t01_mdm2_mdmunitsrecord",
+            "state": "正常",
+            "updaterate": "每日更新"
+        }
+    ],
+    "trend": {
+        "legend": [
+            "本月接入数量",
+            "上月接入数量"
+        ],
+        "series": [
+            {
+                "data": [],
+                "name": "本月接入数量"
+            },
+            {
+                "data": [],
+                "name": "上月接入数量"
+            }
+        ],
+        "xdata": []
+    }
+}

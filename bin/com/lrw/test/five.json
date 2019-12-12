@@ -1,0 +1,208 @@
+{
+	"ft": true,
+	"msg": "ok",
+	"data": {
+		"table": [
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "OA系统",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 33,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			},
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "灾备系统",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 1,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			},
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "主数据系统(思源)",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 52,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			},
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "态势感知",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 53,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			},
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "IT服务共享中心",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 8,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			},
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "统一身份认证",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 2,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			},
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "云平台监控",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 5,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			},
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "主数据系统(浪潮)",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 14,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			},
+			{
+				"nullcheck": 98,
+				"wavecheck": 98,
+				"logicalcheck": 98,
+				"name": "电子邮件系统",
+				"normcheck": 196,
+				"rangecheck": 98,
+				"probleamnum": 980,
+				"integritycheck": 98,
+				"intervalue": 3,
+				"duplicatecheck": 98,
+				"referentialcheck": 98,
+				"timelinecheck": 98
+			}
+		],
+		"problemTrend": {
+			"xdata": [
+				"2018-08",
+				"2018-07",
+				"2018-09",
+				"2018-10"
+			],
+			"legend": [
+			
+				"问题数",
+				"分数"
+			],
+			"series": [
+				{
+					"data": [
+						77,
+						66,
+						88,
+						10878
+					],
+					"name": "问题数",
+					"yaxisIndex": null
+				},
+				{
+					"data": [
+						1037.3
+					],
+					"name": "分数",
+					"yaxisIndex": 1
+				}
+			]
+		},
+		"pie": [
+			{
+				"name": "波动检查",
+				"value": 1078
+			},
+			{
+				"name": "及时性检查",
+				"value": 1078
+			},
+			{
+				"name": "逻辑检查",
+				"value": 1078
+			},
+			{
+				"name": "值域检查",
+				"value": 1078
+			},
+			{
+				"name": "重复数据检查",
+				"value": 1078
+			},
+			{
+				"name": "空值检查",
+				"value": 1078
+			},
+			{
+				"name": "完整性检查",
+				"value": 1078
+			},
+			{
+				"name": "规范检查",
+				"value": 2156
+			},
+			{
+				"name": "引用完整性检查",
+				"value": 1078
+			}
+		]
+	},
+	"resuMap": {
+		
+	},
+	"total": null
+}

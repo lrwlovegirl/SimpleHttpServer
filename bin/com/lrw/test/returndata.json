@@ -1,0 +1,163 @@
+{
+	"problemTrend": {
+		"legend": [
+			"接入数据量",
+			"当前排名",
+			"问题数据量"
+		],
+		"series": [
+			{
+				"data": [
+					13,
+					12,
+					3,
+					18,
+					13,
+					23,
+					43,
+					73,
+					43,
+					73,
+					43
+				],
+				"name": "问题数据量"
+			},
+			{
+				"data": [
+					100,
+					100,
+					100,
+					100,
+					100,
+					110,
+					120,
+					108,
+					190,
+					160,
+					210
+				],
+				"name": "接入数据量"
+			},
+			{
+				"data": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				],
+				"name": "当前排名",
+				"yAxisIndex": 1
+			}
+		],
+		"xdata": [
+			"云平台监控",
+			"OA系统",
+			"二级单位OA系统",
+			"主数据系统(浪潮)",
+			"主数据系统(思源)",
+			"IT服务共享中心",
+			"统一身份认证",
+			"态势感知",
+			"灾备系统",
+			"电子邮件系统",
+			"网络监控"
+		]
+	},
+	"table": [
+		{
+			"lastnum": 1,  //上期排名
+			"stat": 0,     //上升/下降
+			"joinnum": 100, //接入数据量
+			"ranknum": 1,   //当前排名
+			"name": "云平台监控", //系统名称
+			"probleamnum": 13  //问题数据量
+		},
+		{
+			"lastnum": 2,
+			"stat": 0,
+			"joinnum": 100,
+			"ranknum": 2,
+			"name": "OA系统",
+			"probleamnum": 12
+		},
+		{
+			"lastnum": 3,
+			"stat": 0,
+			"joinnum": 100,
+			"ranknum": 3,
+			"name": "二级单位OA系统",
+			"probleamnum": 3
+		},
+		{
+			"lastnum": 4,
+			"stat": -1,
+			"joinnum": 100,
+			"ranknum": 4,
+			"name": "主数据系统(浪潮)",
+			"probleamnum": 18
+		},
+		{
+			"lastnum": 5,
+			"stat": 0,
+			"joinnum": 100,
+			"ranknum": 5,
+			"name": "主数据系统(思源)",
+			"probleamnum": 13
+		},
+		{
+			"lastnum": 6,
+			"stat": -2,
+			"joinnum": 110,
+			"ranknum": 6,
+			"name": "IT服务共享中心",
+			"probleamnum": 23
+		},
+		{
+			"lastnum": 7,
+			"stat": 0,
+			"joinnum": 120,
+			"ranknum": 7,
+			"name": "统一身份认证",
+			"probleamnum": 43
+		},
+		{
+			"lastnum": 8,
+			"stat": 0,
+			"joinnum": 108,
+			"ranknum": 8,
+			"name": "态势感知",
+			"probleamnum": 73
+		},
+		{
+			"lastnum": 9,
+			"stat": 0,
+			"joinnum": 190,
+			"ranknum": 9,
+			"name": "灾备系统",
+			"probleamnum": 43
+		},
+		{
+			"lastnum": 10,
+			"stat": 0,
+			"joinnum": 160,
+			"ranknum": 10,
+			"name": "电子邮件系统",
+			"probleamnum": 73
+		},
+		{
+			"lastnum": 11,
+			"stat": 0,
+			"joinnum": 210,
+			"ranknum": 11,
+			"name": "网络监控",
+			"probleamnum": 43
+		}
+	]
+}
