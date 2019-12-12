@@ -1,0 +1,7 @@
+# SimpleHttpServer
+手写的简单的web服务器
+
+调用SimpleHttpServer类中的start()方法，可启动服务器，SimpleHttpServer在建立与客户端的连接后，并不会处理客户端的请求，而是将其包装成HttpSimpleServerHadnler
+并交由线程池处理，在线程池中的Worker处理客户端请求的同时，SimpleHttpServer能够继续完成后续客户端连接的建立，不会阻塞后续客户端的请求
+
+
